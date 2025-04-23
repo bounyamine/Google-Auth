@@ -117,4 +117,4 @@ Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me c
 
 ---
 
-Développé avec ❤️ par [Votre Nom](https://github.com/bounyamine)
+Développé avec ❤️ par [Bounyamine Ousmanou](https://github.com/bounyamine)
